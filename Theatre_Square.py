@@ -4,7 +4,6 @@ x = (n + a - 1) // a
 y = (m + a - 1) // a
 
 print(x * y)
-
 # another way
 
 # import math
